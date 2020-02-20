@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to LA !!! </h1>
+<h1> Hi, Welcome to LA !!! </h1>
 
 
