@@ -1,3 +1,3 @@
-<h1> Welcome to LA !!! YAyyyyyy! </h1>
+<h1> Welcome to LA !!! YaY! </h1>
 
 
